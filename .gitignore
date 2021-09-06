@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.local
+.env.production
+yarn.lock
+packaje-json.lock
+README.md
