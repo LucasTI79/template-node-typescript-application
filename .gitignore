@@ -3,5 +3,5 @@ node_modules
 .env.local
 .env.production
 yarn.lock
-package-json.lock
+package-lock.json
 README.md
